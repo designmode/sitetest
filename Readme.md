@@ -1,5 +1,5 @@
 #vmware
 ##vmware, vmwde
 
-future new sites :
+future new sites:
 vmwjapan

@@ -2,4 +2,4 @@
 ##vmware, vmwde
 
 future new sites :
-vmwaus
+vmwjapan

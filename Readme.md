@@ -3,3 +3,4 @@
 
 Future New Sites:
 vmwjapan
+vmwaus
